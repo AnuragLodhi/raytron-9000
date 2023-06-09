@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "color.hpp"
-#include "vec.hpp"
+#include "lib/color.hpp"
+#include "lib/vec3.hpp"
 
 int main() {
     // Image size

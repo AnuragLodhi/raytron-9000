@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "vec.hpp"
+#include "vec3.hpp"
 
 /// @brief Write 0 - 255 integer value of each color component to an output stream
 /// @param out Output stream
